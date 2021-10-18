@@ -1,0 +1,10 @@
+--- Data(Veri) Nedir? 
+
+- Data; herhangi bir çalışmadan sonra anlamlandırılmış veri topluluğu, karakterler topluluğu veya resimler topluluğuna biz
+data diyoruz. Data aynı zamanda hem resim hem metinler topluluğu yani kısacası her şey olabilir. Yeter ki belli bir çalışmadan
+sonra anlamdırılmış olsun. Bu noktada, data'ya örnek verecek olursak örneğin benim adımın Berke olması, elimizdeki bir data'dır.
+Bizim burada eğer bir data tasarımcısı isek data'yı nasıl ele aldığımız öenmlidir. 
+
+- Data aslında iki türlüdür. Biri değişebilen diğeri ise değişmeyen data'dır. Örneğin adımın Berke olması değişmeyen bir data'dır.
+Bunlara discrete data deniyor. Bir de değişen data'lar vardır. Bunlara da continious data deniyor. Örneğin kilomuz değişen bir
+data'dır. Genellikle tasarımları yaparken de bunları dikkate alarak tasarımlar yaparız. 
