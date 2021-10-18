@@ -1,0 +1,21 @@
+--- Popüler Veritabanı(Database) Yönetim Sistemleri
+
+-- RDBMS(Relational Database Managment Systems): İlişkisel Veritabanı Yönetim Sistemleri
+Bizim ülkemizde çoğunlukla bunlar kullanılır. Genelde otomasyon projeleri yapılır. Yani otomasyon projeleri derken örneğin bir
+bankanın bankacılık yazılımları, bir kurumun personel takip sistemi, yani bir data'yı yönetmeye yönelik çalışmalara otomasyon
+projeleri deniyor. Verilerde ilişkilerin fiziksel olarak tanımlanabildiği data'lara RDBMS Veritabanları daha uygundur. 
+
+- RDBMS Örnekleri: Microsoft Sql Server, Oracle, MySql, PostgreSql
+Burada Sql bir sorgu dili, Sql Server ise Microsoft tarafından geliştirilen veritabanı yönetim sisteminin adıdır. 
+
+Oracle, Oracle firması tarafından ücretli olarak sunulur. Birçok kurum Oracle'ı veritabanı olarak kullanır. 
+
+
+-- NoSql Database Systems - Not Only Sql
+Bunlar ilişkilerin fiziksel olmadığı, ve özellikle verinin özelliklerinin değişkenlik gösterdiği durumlarda kullanılıyor. Örneğin 
+bir verinin bir özelliği varken zamanla başka özellikleri de çıkabilir. Örneğin bir müşteriyi veritabanına Berke Sayın olarak 
+kaydettik. Ama daha sonra başka bir data Berke Sayın bir de doğum yeri İstanbul şeklinde yazılabilir. Bununda büyük veri dediğimiz
+örneğin Google'a düşünelim, Google'da veriyi ilişkilendirmek mümkün değil çünkü çok fazla data var, o kadar fazla data içerisinden
+mantıksal bir şeyler çıkarmaya çalışıyoruz, işte bu tip veriler için NoSql Veritabanları daha uygun. 
+
+- NoSql Database Systems Örnekleri: MongoDb, Cassandra, Redis
