@@ -1,0 +1,6 @@
+--- SQL(Structured Query Language) Nedir?
+
+Örneğin bir milyon kaydımızın tutulduğu bir veritabanı tablomuz var. Bizim de bu kayıtları süzüp belli işlemler yapmamız gerekiyor. 
+Mesela cinsiyeti erkek olanları seçip onlarla ilgili işlem yapabiliriz, yaşları büyükten küçüğe sıralayabiliriz, ve de
+buna benzer işlemleri biz Sql sorgu dili komutları ile yapabiliriz. 
+
