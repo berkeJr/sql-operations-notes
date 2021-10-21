@@ -1,0 +1,4 @@
+--- Primary Key Anlamak
+
+Tablo'da Id üzerinde sağ tıklayıp "Set As Primary Key" dersek Id herkes için farklı olmak zorunda olur. Böylelikle her kayıt 
+birbirinden farklı olur. Ve de bir tabloda sadece ve sadece bir tane Primary key olabilir. 
