@@ -1,0 +1,4 @@
+--- Tabloların Tamamlanması
+
+Db: Education
+Tables: Courses, Instructors, CourseInstructors
