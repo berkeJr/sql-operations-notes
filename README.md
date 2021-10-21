@@ -1,1 +1,1 @@
-# sql-operations-notes
+# SQL(Structured Query Langueage) Notes and Cheat Sheet!
