@@ -14,7 +14,7 @@ Buradaki doküman SQL ile ilgili hazırladığım dokümantasyon kaynağıdır. 
   <tbody>
     <tr>
       <th scope="row">1</th>
-      <th scope="row"><a href="https://github.com/taylanbildik/Linux_Dersleri/tree/master/dok%C3%BCmantasyonlar/linux_nedir.md#linux-nedir-" >SQL Nedir?</a></th>
+      <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/1.sql-intro.md" >SQL Nedir?</a></th>
       <th scope="row">7</th>
       <th scope="row"><a href="https://github.com/taylanbildik/Linux_Dersleri/tree/master/dok%C3%BCmantasyonlar/Linux_dosya_sistemi_hiyerar%C5%9Fisi.md#linux-dosya-sistemi-hiyerar%C5%9Fisi" >Linux Dosya Sistemi Hiyerarşisi</a></th>
 	  <th scope="row">13</th>
