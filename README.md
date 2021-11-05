@@ -13,7 +13,7 @@ Buradaki doküman SQL ile ilgili hazırladığım dokümantasyon kaynağıdır. 
 
   <tbody>
     <tr>
-      <th scope="row">1</th>
+      <th scope="row">82</th>
       <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/1.sql-intro.md" >SQL Nedir?</a></th>
       <th scope="row">7</th>
       <th scope="row"><a href="https://github.com/taylanbildik/Linux_Dersleri/tree/master/dok%C3%BCmantasyonlar/Linux_dosya_sistemi_hiyerar%C5%9Fisi.md#linux-dosya-sistemi-hiyerar%C5%9Fisi" >Linux Dosya Sistemi Hiyerarşisi</a></th>
@@ -23,8 +23,8 @@ Buradaki doküman SQL ile ilgili hazırladığım dokümantasyon kaynağıdır. 
 	  <th scope="row"><a href="https://github.com/taylanbildik/Linux_Dersleri/tree/master/dok%C3%BCmantasyonlar/a%C4%9F_komutlar%C4%B1.md#a%C4%9Fnetwork-komutlar%C4%B1" >Ağ Komutları</a></th>
     </tr>
     <tr>
-      <th scope="row">2</th>
-      <th scope="row"><a href="https://github.com/taylanbildik/Linux_Dersleri/tree/master/dok%C3%BCmantasyonlar/gerekli_ortam%C4%B1n_kurulmas%C4%B1.md#gerekli-ortam%C4%B1n-kurulmas%C4%B1" >Gerekli Ortamın Kurulması</a></th>
+      <th scope="row">83</th>
+      <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/2.normalisation-odakli-workshop.md" >Normalisation Odaklı Workshop</a></th>
       <th scope="row">8</th>
       <th scope="row"><a href="https://github.com/taylanbildik/Linux_Dersleri/tree/master/dok%C3%BCmantasyonlar/dizin_i%C5%9Flemleri.md#dizinler-hakk%C4%B1nda" >Dizin İşlemleri</a></th>
 	  <th scope="row">14</th>
