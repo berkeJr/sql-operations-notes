@@ -33,8 +33,8 @@ Buradaki doküman SQL ile ilgili hazırladığım dokümantasyon kaynağıdır. 
 	  <th scope="row"><a href="https://github.com/taylanbildik/Linux_Dersleri/tree/master/dok%C3%BCmantasyonlar/vim_edit%C3%B6r%C3%BC.md#vim-edit%C3%B6r%C3%BC" >Vim Editörü</a></th>
     </tr>
     <tr>
-      <th scope="row">3</th>
-	  <th scope="row"><a href="https://github.com/taylanbildik/Linux_Dersleri/tree/master/dok%C3%BCmantasyonlar/komut_sat%C4%B1r%C4%B1.md#komut-sat%C4%B1r%C4%B1" >Komut Satırı</a></th>
+      <th scope="row">84</th>
+	  <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/3.tasarim-into-db.md" >Tasarımın Gerçek Veri Tabanına Aktarılması</a></th>
 	  <th scope="row">9</th>
       <th scope="row"><a href="https://github.com/taylanbildik/Linux_Dersleri/tree/master/dok%C3%BCmantasyonlar/dosya_i%C5%9Flemleri.md#dosya-%C4%B0%C5%9Flemleri" >Dosya İşlemleri</a></th>
 	  <th scope="row">15</th>
