@@ -1,7 +1,0 @@
---- Microsoft Sql Server'da Kurlsar Tablosunun Oluşturulması
-
-Biz SQl Server Management Studio vasıtasıyla verilerimizi veri tabanlarımızı kurup, görsel olarak bunu takip edebiliyoruz.
-
-Sql Server Management Studio'yu açtıktan sonra object explorer panelinden create database diyerek, Education isimli bir
-veri tabanı oluşturalım ve de o veri tabanı içerisinde create table diyerek Courses isimli bir tablo oluşturalım.
-O tablonun kolonlarını biz arayüzden manuel olarak girebiliriz.

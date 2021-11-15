@@ -14,7 +14,7 @@ Buradaki doküman SQL ile ilgili hazırladığım dokümantasyon kaynağıdır. 
   <tbody>
     <tr>
       <th scope="row">82</th>
-      <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/1.sql-intro.md" >SQL Nedir?</a></th>
+      <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/82.sql-intro.md" >SQL Nedir?</a></th>
       <th scope="row">7</th>
       <th scope="row"><a href="https://github.com/taylanbildik/Linux_Dersleri/tree/master/dok%C3%BCmantasyonlar/Linux_dosya_sistemi_hiyerar%C5%9Fisi.md#linux-dosya-sistemi-hiyerar%C5%9Fisi" >Linux Dosya Sistemi Hiyerarşisi</a></th>
 	  <th scope="row">13</th>
@@ -24,7 +24,7 @@ Buradaki doküman SQL ile ilgili hazırladığım dokümantasyon kaynağıdır. 
     </tr>
     <tr>
       <th scope="row">83</th>
-      <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/2.normalisation-odakli-workshop.md" >Normalisation Odaklı Workshop</a></th>
+      <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/83.normalisation-odakli-workshop.md" >Normalisation Odaklı Workshop</a></th>
       <th scope="row">8</th>
       <th scope="row"><a href="https://github.com/taylanbildik/Linux_Dersleri/tree/master/dok%C3%BCmantasyonlar/dizin_i%C5%9Flemleri.md#dizinler-hakk%C4%B1nda" >Dizin İşlemleri</a></th>
 	  <th scope="row">14</th>
@@ -34,7 +34,7 @@ Buradaki doküman SQL ile ilgili hazırladığım dokümantasyon kaynağıdır. 
     </tr>
     <tr>
       <th scope="row">84</th>
-	  <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/3.tasarim-into-db.md" >Tasarımın Gerçek Veri Tabanına Aktarılması</a></th>
+	  <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/84.tasarim-into-db.md" >Tasarımın Gerçek Veri Tabanına Aktarılması</a></th>
 	  <th scope="row">9</th>
       <th scope="row"><a href="https://github.com/taylanbildik/Linux_Dersleri/tree/master/dok%C3%BCmantasyonlar/dosya_i%C5%9Flemleri.md#dosya-%C4%B0%C5%9Flemleri" >Dosya İşlemleri</a></th>
 	  <th scope="row">15</th>

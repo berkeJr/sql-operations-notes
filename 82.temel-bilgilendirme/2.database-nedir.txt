@@ -1,8 +1,0 @@
---- Database(Veritabanı) Nedir?
-
-- Veritabanı nedir ve biz niye veritabanına ihtiyaç duyarız? Örneğin twitter üzerinden gidelim. Bizim bir twitter 
-hesabımız var ve oraya bir fotoğraf gönderdiğimizi varsayalım. Altına da yazılarımızı yazıyoruz. Aynı hesaptan başka
-bir yerde, cihazda giriş yaptığımızda da aynı bilgilere ulaşıyoruz. Başkası bizim hesabımıza girdiğinde o da o bilgilere 
-erişebiliyor. Bu bilgiler aslında veritabanı tarafından aktarılıyor. Yani biz veriyi aslında herkesin bilgisayrında ayrı ayrı 
-değil, onun yerinde sadece veritabanında tutuyoruz. Yani biz bir resim attığımızda, o resim önce veritabanına kaydediliyor, 
-ve sonra da ona erişmek isteyen herkese gönderiliyor. Yani veritabanı bizim mantıksal verilerimizi tutan yerdir. 

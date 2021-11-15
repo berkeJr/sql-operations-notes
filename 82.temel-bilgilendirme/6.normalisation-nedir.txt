@@ -1,8 +1,0 @@
---- Normalisation Nedir? 
-
-Normalizasyonun iki temel amacı vardır. Veri tabanında veri tekrarlarını ortadan kaldırmak ve veri tutarlılığını (doğruluğunu) 
-artırmak. Başarılı bir şekilde uygulandığında normalizasyon işlemi veri tabanının süratini büyük oranda artırır. Veri tabanının 
-sabit diskteki boyutunu azaltır. Ayrıca veri tutarlılığını artırarak veri tekrarlarını engeller. Özellikle güncelleme ve silme 
-işlemlerinde ortaya çıkabilecek aksaklıkları minimize eder.
-
-Kısacası normalizasyon verilerimizin sağlıklı olarak tutulduğundan emin olmak için yapılan çalışmalardır. 

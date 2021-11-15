@@ -1,6 +1,0 @@
---- Database Design(Veritabanı Tasarımı) Nedir?
-
-- Database Design, verilerimizin anlamlı ve vermli bir şekilde aslında veritablarında tutulması için yapılan tasarımsal çalışmadır.
-Burada amaç çoğunlukla veriye sağlıklı bir şekilde erişmek, veri değiştiği zaman onu kolaylıkla değiştirebilmek, veriye
-hızlı bir şekilde ulaşabilmek bunlar veritabanı tasarımının ana konularıdır. Yani bizim verilerimizi sağlıklı bir 
-şekilde tasarlama sürecine biz veritabanı tasarımı diyoruz. 
