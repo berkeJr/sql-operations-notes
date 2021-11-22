@@ -44,8 +44,8 @@ Buradaki doküman SQL ile ilgili hazırladığım dokümantasyon kaynağıdır. 
     </tr>
     </tr>
 	  <tr>
-      <th scope="row">4</th>
-	  <th scope="row"><a href="https://github.com/taylanbildik/Linux_Dersleri/tree/master/dok%C3%BCmantasyonlar/k%C4%B1sayollar.md#k%C4%B1sayollar" >Kısayollar</a></th>
+      <th scope="row">85</th>
+	  <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/85.mevcut-db-inceleme.md" >Mevcut Veri Tabanını İnceleme Teknikleri</a></th>
 	  <th scope="row">10</th>
 	  <th scope="row"><a href="https://github.com/taylanbildik/Linux_Dersleri/tree/master/dok%C3%BCmantasyonlar/dosya_ar%C5%9Fivleme.md#dosya-ar%C5%9Fiv-%C4%B0%C5%9Flemleri" >Dosya Arşivleme</a></th>
 	  <th scope="row">16</th>
