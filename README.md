@@ -15,8 +15,8 @@ Buradaki doküman SQL ile ilgili hazırladığım dokümantasyon kaynağıdır. 
     <tr>
       <th scope="row">82</th>
       <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/82.sql-intro.md" >SQL Nedir?</a></th>
-      <th scope="row">7</th>
-      <th scope="row"><a href="https://github.com/taylanbildik/Linux_Dersleri/tree/master/dok%C3%BCmantasyonlar/Linux_dosya_sistemi_hiyerar%C5%9Fisi.md#linux-dosya-sistemi-hiyerar%C5%9Fisi" >Linux Dosya Sistemi Hiyerarşisi</a></th>
+      <th scope="row">88</th>
+      <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/88.like-between-in.md" >SQL Like, Between, In İle Çalışmak</a></th>
 	  <th scope="row">13</th>
 	  <th scope="row"><a href="https://github.com/taylanbildik/Linux_Dersleri/tree/master/dok%C3%BCmantasyonlar/s%C3%BCre%C3%A7_i%C5%9Flemleri.md#s%C3%BCre%C3%A7lerprocess" >Süreç İşlemleri</a></th>
 	  <th scope="row">19</th>
