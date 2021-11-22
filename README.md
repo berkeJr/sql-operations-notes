@@ -25,8 +25,8 @@ Buradaki doküman SQL ile ilgili hazırladığım dokümantasyon kaynağıdır. 
     <tr>
       <th scope="row">83</th>
       <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/83.normalisation-odakli-workshop.md" >Normalisation Odaklı Workshop</a></th>
-      <th scope="row">8</th>
-      <th scope="row"><a href="https://github.com/taylanbildik/Linux_Dersleri/tree/master/dok%C3%BCmantasyonlar/dizin_i%C5%9Flemleri.md#dizinler-hakk%C4%B1nda" >Dizin İşlemleri</a></th>
+      <th scope="row">89</th>
+      <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/89.aggregeation-functions.md" >Aggregeation Fonksiyonlarıyla Çalışmak</a></th>
 	  <th scope="row">14</th>
 	  <th scope="row"><a href="https://github.com/taylanbildik/Linux_Dersleri/tree/master/dok%C3%BCmantasyonlar/disk_i%C5%9Flemleri.md#disk-%C4%B0%C5%9Flemleri" >Disk İşlemleri</a></th>
 	  <th scope="row">20</th>
