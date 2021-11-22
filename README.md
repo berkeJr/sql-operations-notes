@@ -64,8 +64,8 @@ Buradaki doküman SQL ile ilgili hazırladığım dokümantasyon kaynağıdır. 
 	  <th scope="row"><a href="https://github.com/taylanbildik/Linux_Dersleri/tree/master/dok%C3%BCmantasyonlar/log_kay%C4%B1tlar%C4%B1.md#log-kay%C4%B1tlar%C4%B1" >Log Dosyaları</a></th>
     </tr>
 	  <tr>
-      <th scope="row">6</th>
-	  <th scope="row"><a href="https://github.com/taylanbildik/Linux_Dersleri/tree/master/dok%C3%BCmantasyonlar/bilgi_alma.md#bilgi-almak" >Bilgi Alma Komutları</a></th>
+      <th scope="row">87</th>
+	  <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/87.orderby-and-or-not.md" >Sql OrderBy, And, Or, Not ile Çalışmak</a></th>
 	  <th scope="row">12</th>
 	  <th scope="row"><a href="https://github.com/taylanbildik/Linux_Dersleri/tree/master/dok%C3%BCmantasyonlar/kullan%C4%B1c%C4%B1_i%C5%9Flemleri.md#kullan%C4%B1c%C4%B1-%C4%B0%C5%9Flemleri" >Kullanıcı İşlemleri</a></th>
 	  <th scope="row">18</th>
