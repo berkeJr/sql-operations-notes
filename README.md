@@ -56,8 +56,8 @@ Buradaki doküman SQL ile ilgili hazırladığım dokümantasyon kaynağıdır. 
 	  <tr>
       <th scope="row">86</th>
 	  <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/86.hesaplamali-sorgular.md" >Hesaplamalı Sorgularla Çalışmak</a></th>
-	  <th scope="row">11</th>
-	  <th scope="row"><a href="https://github.com/taylanbildik/Linux_Dersleri/tree/master/dok%C3%BCmantasyonlar/eri%C5%9Fim_yetkileri.md#eri%C5%9Fim-yetkileri" >Erişim Yetkileri</a></th>  
+	  <th scope="row">92</th>
+	  <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/92.sql-join.md" >Sql Join İle Çalışmak</a></th>  
 	  <th scope="row">17</th>
 	  <th scope="row"><a href="https://github.com/taylanbildik/Linux_Dersleri/tree/master/dok%C3%BCmantasyonlar/kurma-kald%C4%B1rma-g%C3%BCncelleme_i%C5%9Flemleri.md#kurma-kald%C4%B1rma-g%C3%BCncelleme-%C4%B0%C5%9Flemleri" >Güncelleme Kurma Kaldırma İşlemleri</a></th>
 	  <th scope="row">23</th>
