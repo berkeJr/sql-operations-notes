@@ -48,8 +48,8 @@ Buradaki doküman SQL ile ilgili hazırladığım dokümantasyon kaynağıdır. 
 	  <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/85.mevcut-db-inceleme.md" >Mevcut Veri Tabanını İnceleme Teknikleri</a></th>
 	  <th scope="row">91</th>
 	  <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/91.groupby-having.md" >Group By ve Having İle Çalışmak</a></th>
-	  <th scope="row">16</th>
-	  <th scope="row"><a href="https://github.com/taylanbildik/Linux_Dersleri/tree/master/dok%C3%BCmantasyonlar/sembolik_link-ve-kat%C4%B1_link.md#sembolik-link-ve-kat%C4%B1-link" >Sembolik Link ve Katı Link</a></th>
+	  <th scope="row">97</th>
+	  <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/97.db-queries.md" >Veri Tabanında Değişiklik Yapan Sorgular</a></th>
 	  <th scope="row">22</th>
 	  <th scope="row"><a href="https://github.com/taylanbildik/Linux_Dersleri/tree/master/dok%C3%BCmantasyonlar/zamanlam%C4%B1%C5%9F_g%C3%B6revler.md#zamanlanm%C4%B1%C5%9F-g%C3%B6revler" >Zamanlanmış Görevler</a></th>
     </tr>
