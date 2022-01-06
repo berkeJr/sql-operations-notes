@@ -19,9 +19,9 @@ Buradaki doküman SQL ile ilgili hazırladığım dokümantasyon kaynağıdır. 
       <th scope="row">88</th>
       <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/88.like-between-in.md" >SQL Like, Between, In İle Çalışmak</a></th>
 	  <th scope="row">94</th>
-	  <th scope="row"><a href="" >Workshop 3</a></th>
+	  <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/94.workshop-3.md" >Workshop 3</a></th>
 	  <th scope="row">100</th>
-	  <th scope="row"><a href="" >Profesyonel Tasarım Örneği</a></th>
+	  <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/100.pro-design.md" >Profesyonel Tasarım Örneği</a></th>
     </tr>
     <tr>
       <th scope="row">83</th>
@@ -29,19 +29,19 @@ Buradaki doküman SQL ile ilgili hazırladığım dokümantasyon kaynağıdır. 
       <th scope="row">89</th>
       <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/89.aggregeation-functions.md" >Aggregeation Fonksiyonlarıyla Çalışmak</a></th>
 	  <th scope="row">95</th>
-	  <th scope="row"><a href="" >Workshop 4</a></th>
+	  <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/95.workshop-4.md" >Workshop 4</a></th>
 	  <th scope="row">101</th>
-	  <th scope="row"><a href="" >Demo Tasarımın Veritabanına Dönüştürülmesi</a></th>
+	  <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/101.design-into-db.md" >Demo Tasarımın Veritabanına Dönüştürülmesi</a></th>
     </tr>
     <tr>
       <th scope="row">84</th>
 	  <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/84.tasarim-into-db.md" >Tasarımın Gerçek Veri Tabanına Aktarılması</a></th>
 	  <th scope="row">90</th>
-      <th scope="row"><a href="" >String Fonksiyonlarıyla Çalışmak</a></th>
+      <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/90.string.-functions.md" >String Fonksiyonlarıyla Çalışmak</a></th>
 	  <th scope="row">96</th>
-	  <th scope="row"><a href="" >Workshop 5</a></th>
+	  <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/96.workshop-5.md" >Workshop 5</a></th>
 	  <th scope="row">102</th>
-	  <th scope="row"><a href="" >Index Mimarisi</a></th>
+	  <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/102.sql-index.md" >Index Mimarisi</a></th>
     </tr>
     </tr>
 	  <tr>
@@ -52,7 +52,7 @@ Buradaki doküman SQL ile ilgili hazırladığım dokümantasyon kaynağıdır. 
 	  <th scope="row">97</th>
 	  <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/97.db-queries.md" >Veri Tabanında Değişiklik Yapan Sorgular</a></th>
 	  <th scope="row">103</th>
-	  <th scope="row"><a href="" >Best Practice Odaklı İndex</a></th>
+	  <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/103.index.with-best-practice.md" >Best Practice Odaklı İndex</a></th>
     </tr>
 	  <tr>
       <th scope="row">86</th>
@@ -60,17 +60,17 @@ Buradaki doküman SQL ile ilgili hazırladığım dokümantasyon kaynağıdır. 
 	  <th scope="row">92</th>
 	  <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/92.sql-join.md" >Sql Join İle Çalışmak</a></th>  
 	  <th scope="row">98</th>
-	  <th scope="row"><a href="" >Join Odaklı Insert, Update, Delete</a></th>
+	  <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/98.join-focused-insert-update.md" >Join Odaklı Insert, Update, Delete</a></th>
 	  <th scope="row">104</th>
-	  <th scope="row"><a href="" >Udemy Sisteminin Tasarım Demosu</a></th>
+	  <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/104.udemy-design-demo.md" >Udemy Sisteminin Tasarım Demosu</a></th>
     </tr>
 	  <tr>
       <th scope="row">87</th>
 	  <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/87.orderby-and-or-not.md" >Sql OrderBy, And, Or, Not ile Çalışmak</a></th>
 	  <th scope="row">93</th>
-	  <th scope="row"><a href="" >Workshop 2</a></th>
+	  <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/93.workshop-2.md" >Workshop 2</a></th>
 	  <th scope="row">99</th>
-	  <th scope="row"><a href="" >Genel Tekrar</a></th>
+	  <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/99.general-review.md" >Genel Tekrar</a></th>
 	  <th scope="row">105</th>
 	  <th scope="row"><a href="" >...</a></th>
     </tr>
