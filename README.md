@@ -60,7 +60,7 @@ Buradaki doküman SQL ile ilgili hazırladığım dokümantasyon kaynağıdır. 
 	  <th scope="row">92</th>
 	  <th scope="row"><a href="https://github.com/berkeJr/sql-operations-notes/blob/master/documentations/92.sql-join.md" >Sql Join İle Çalışmak</a></th>  
 	  <th scope="row">98</th>
-	  <th scope="row"><a href="" >Güncelleme Kurma Kaldırma İşlemleri</a></th>
+	  <th scope="row"><a href="" >Join Odaklı Insert, Update, Delete</a></th>
 	  <th scope="row">104</th>
 	  <th scope="row"><a href="" >Udemy Sisteminin Tasarım Demosu</a></th>
     </tr>
