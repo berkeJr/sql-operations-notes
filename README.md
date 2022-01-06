@@ -8,6 +8,8 @@
 Buradaki doküman SQL ile ilgili hazırladığım dokümantasyon kaynağıdır. Dökümantasyonu hazırlarken Engin Demiroğ'un SQL eğitiminden ve internette bulunan açık kaynak dökümantasyon sayfalarından faydalandım. Bu eğitim serisi, SQL sorgu dili ile veri tabanı sistemlerini nasıl yönetebileceğimizi, verilerimizi nasıl sağlıklı bir şekilde saklayabileceğimizi gösteren konu anlatımlarından oluşturulmuştur. Konular ve daha fazla bilgi için aşağıdaki bilgileri gözden geçirebilirsiniz.
 </p>
 
+[Engin Demiroğ / Udemy: Programcılık Kursu, Sql Kısmı, Bölüm 81 - 104](https://www.udemy.com/course/programcilik-kursu/)
+
 ## SQL Sorgu Dili Dökümantasyonu Konu İçeriği
 
 <table class="table table-striped">
