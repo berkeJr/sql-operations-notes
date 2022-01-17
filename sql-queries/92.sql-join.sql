@@ -119,3 +119,25 @@ where o.CustomerID is null
 
 /*Full Join ile Çalýþmak*/
 
+/*
+Peki full outer join ya da full join ne demek? Öncelikle inner join'de 2 tablodan eþleþenleri getiriyordu. 
+left join'de soldaki tabloda olup saðda olmayanlarý getiriyordu. right join'de saðdaki tabloda olup soldaki 
+tabloda olmayanlarý getiriyordu. full join'de ise inner join olanlarý da, left join olanlarý da, right join 
+olanlarý da getiriyor.
+*/
+
+-- Sipariþi olan müþterilerin sayýsý: 830 kayýt. Not: Bir müþterinin birden fazla olabilir.
+Select * from Customers c inner join Orders o
+on c.CustomerID = o.CustomerID
+
+-- Inner joinle gelenler + Müþteri olup sipariþi olmayanlarda geliyor. (830 + 2) = 830 kayýt
+Select * from Customers c left join Orders o 
+on c.CustomerID = o.CustomerID
+
+-- Inner joinle gelenler + Sipariþi olup müþteri olmayanlar da geliyor. (830 + 0) = 830 kayýt
+Select * from Customers c right join Orders o 
+on c.CustomerID = o.CustomerID
+
+-- Full join ise: inner + left + right = (830 + 2 + 0) = 832 kayýt
+Select * from Customers c full join Orders o 
+on c.CustomerID = o.CustomerID
