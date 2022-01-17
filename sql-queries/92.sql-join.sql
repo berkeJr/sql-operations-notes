@@ -57,15 +57,17 @@ Select * from [Order Details]
 Select * from Products p inner join [Order Details] od
 on p.ProductID = od.ProductID 
 
+
 -- 3 tablo join
+/* 
+ürünün ismi: Products tablosunda
+hangi tarihte sipariþ aldýk: Orders tablosunda
+ne kadar para kazandýk: UnitPrice * Quantity: [Order Details] tablosunda
+*/
 Select * from Products p inner join [Order Details] od
 on p.ProductID = od.ProductID
 inner join Orders o 
 on od.OrderID = o.OrderID
-/* 
-	
-*/
-
 
 /*
 Products ile Order Details'i birleþtiren: ProductId
@@ -79,7 +81,7 @@ Select p.ProductName, o.OrderDate, od.quantity * od.UnitPrice as Total
 from Products p inner join [Order Details] od
 on p.ProductID = od.ProductID
 inner join Orders o 
-on o.OrderID = od.OrderID
+on od.OrderID = o.OrderID
 order by p.ProductName, o.OrderDate
 
 /* Left Join Ýle Çalýþmak */
@@ -103,4 +105,17 @@ on c.CustomerID = o.CustomerID
 where o.CustomerID is null 
 -- 2 tane kayýt geldi, yani 2 müþteriye daha önce hiç satýþ yapamamýþýz
 
-/* left'in anlamý þu: soldaki tabloda olup saðdaki tabloda olmayanlarý da getir. */ 
+/* left'in anlamý þu: soldaki tabloda olup saðdaki tabloda olmayalarý da getir. */ 
+
+
+/* Right Join ile Çalýþmak*/
+
+-- right join: saðdaki tabloda olup soldaki tabloda olmayanlarý da getir
+
+-- Müþterimiz olup henüz satýþ yapmamýþlar 
+Select * from Orders o right join Customers c 
+on o.CustomerID = c.CustomerID 
+where o.CustomerID is null 
+
+/*Full Join ile Çalýþmak*/
+
