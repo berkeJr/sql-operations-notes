@@ -17,7 +17,7 @@ on Products.CategoryID = Categories.CategoryID
 where Products.UnitPrice > 20
 
 -- Products ve Categories tablolarýnýn Join'lerinden (ortak noktalarýndan) seç
--- Ayrýca diðer sql sorgularýný da ekleyebiliriz.
+-- Ayrýca diðer sql sorgularýný da ekleyebiliriz. 
 Select * from Products inner join Categories
 on Products.CategoryID = Categories.CategoryID
 where Products.UnitPrice > 20
@@ -61,7 +61,12 @@ on p.ProductID = od.ProductID
 Select * from Products p inner join [Order Details] od
 on p.ProductID = od.ProductID
 inner join Orders o 
-on o.OrderID = od.OrderID
+on od.OrderID = o.OrderID
+/* 
+	
+*/
+
+
 /*
 Products ile Order Details'i birleþtiren: ProductId
 Order Details ile Orders'ý birleþtiren: OrderId
